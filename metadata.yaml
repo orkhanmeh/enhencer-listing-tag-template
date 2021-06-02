@@ -1,5 +1,5 @@
 homepage: "https://enhencer.com"
 documentation: "https://www.enhencer.com/resources"
 versions:
-  - sha: 76e4151948ba8bf4922c509dda49f753b300c753
+  - sha: e8c059a0779df39f30854def0dcf47c941426c89
     changeNotes: Initial Version
